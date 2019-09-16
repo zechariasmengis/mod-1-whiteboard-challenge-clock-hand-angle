@@ -1,5 +1,4 @@
 def clock_angle(time)
-<<<<<<< HEAD
 	# convert time string to integers
 	hours = time.split(":")[0].to_i
 	minutes = time.split(":")[1].to_i
@@ -18,11 +17,3 @@ def clock_angle(time)
 	end
 	difference
 end
-=======
-	hours_int = time.split(":")[0].to_i
-	minutes_int = time.split(":")[1].to_i
-	hours_angle = (hours_int * 30 ) + (minutes_int * 0.5)
-	minutes_angle = minutes_int * 6
-	(hours_angle - minutes_angle).abs > 180 ? (360 - (hours_angle - minutes_angle)).abs : (hours_angle - minutes_angle).abs
-end
->>>>>>> 4e73cbe87806b75bf7fa6e0de86a69e9530dfa29

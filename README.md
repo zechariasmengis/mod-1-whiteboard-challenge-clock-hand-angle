@@ -11,4 +11,4 @@
 Hint: How many degrees does the hour hand move in an hour? How many degrees does the minute hand move in an hour?
 Assume that **both** the hour and the minute hands move **every minute** by the appropriate amount.
 
-Note: For measuring these angles, start at the minute hand and measure clockwise to determine the angle. (ex: "3:00" == 90 degrees but "9:00" == 270 degrees) 
+Note: For measuring these angles, start at the hour hand and measure clockwise to determine the angle. (ex: "3:00" == 90 degrees but "9:00" == 270 degrees) 

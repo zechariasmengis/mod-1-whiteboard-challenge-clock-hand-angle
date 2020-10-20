@@ -1,6 +1,4 @@
-# Whiteboarding Challenge
-
-## Angle on a clock face
+# Angle on a clock face
 
 <p align="center">
   <img src="https://curriculum-content.s3.amazonaws.com/module-1/whiteboard-challenge/clock-hand-angle/Image_119_ClockHandAngle.png" alt="clocks" width="300"/>
